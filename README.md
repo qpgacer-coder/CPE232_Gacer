@@ -1,2 +1,4 @@
 # CPE232_Gacer
-HAAHHAA SYS AD
+My Name is Paolo Gacer currently taking Bachelor of Science in Computer Engineering
+
+
